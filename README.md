@@ -1,6 +1,7 @@
 # yamdb_final
 YaMDb сервия для сбора отзывов о фильмах, книгах или музыке. Так же настроены CI/CD.  
-https://github.com/A1kawa1/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg  
+
+![example workflow](https://github.com/A1kawa1/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)  
 
 ### Стек технологий:
 - Python

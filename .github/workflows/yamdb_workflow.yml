@@ -41,7 +41,8 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: a1kawa/infra_actions:latest
+          file: api_yamdb/Dockerfile
+          tags: a1kawa/api_yamdb:latest
 
   deploy:
       runs-on: ubuntu-latest

@@ -14,8 +14,7 @@ YaMDb сервия для сбора отзывов о фильмах, книг�
 ### Как запустить проект:
 
 ```
-git clone https://github.com/A1kawa1/infra_sp2.git
-cd infra_sp2
+git clone https://github.com/A1kawa1/yamdb_final.git
 cd api_yamdb
 ```
 
